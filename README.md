@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushranjan-rcdu&label=Profile%20views&color=0e75b6&style=flat" alt="piyushranjan-rcdu" /> </p>
 
-- 🌱 I’m currently learning **bachelors in Economics**
+- 🌱 I’m currently pursuing **bachelors in Economics**
 
 - 📫 How to reach me **piyushranjan7517@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
